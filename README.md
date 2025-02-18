@@ -11,9 +11,13 @@ A professional network scanning tool for security researchers, penetration teste
 
 XMap is an advanced, easy-to-use graphical network scanner that helps users:
 ✅ Identify open ports on a target machine or network.
+
 ✅ Detect running services and their versions.
+
 ✅ Perform fast and full network scanning.
+
 ✅ Scan an entire subnet to find active hosts.
+
 ✅ Use a user-friendly GUI for better interaction.
 
 📦 Installation Requirements
