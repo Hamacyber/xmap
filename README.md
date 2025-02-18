@@ -24,6 +24,8 @@ XMap is an advanced, easy-to-use graphical network scanner that helps users:
 
 
 
+
+
 📦 Installation Requirements
 🔹 (Optional) Install Nmap for Service Detection
 
@@ -41,6 +43,14 @@ XMap is an advanced, easy-to-use graphical network scanner that helps users:
     nmap --version
 
 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  2. Install XMap
 
 1️⃣ Download the XMap setup file: xmap-setup-1.0.exe
